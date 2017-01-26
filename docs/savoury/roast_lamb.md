@@ -3,7 +3,7 @@
 ## Ingredients
 
 * Lamb
-* Rosemary
+* Rosemary; preferably sprigs of, but dried will do.
 * Olive oil
 * Pepper/Salt
 * 2x Garlic per kg of meat
@@ -14,7 +14,12 @@
 * seal meat before cooking in a pan
 
 1. Preheat oven to 200 degrees (175c fan forced)
-1. Pierce lamb in several places and insert chunks of garlic and rosemary
-1. Lather with oil and rub in a healthy amount of pepper and salt
+
+1. Pierce lamb in several places and insert chunks of garlic and sprigs of
+rosemary. If you only have dried lamb, rub it all over the meat after lathering
+with oil in the next step.
+
+1. Lather with oil and rub in a healthy amount of pepper and salt.
+
 1. Cook meat for 1 hour plus 30 minutes per 500grams - increase time if there is a bone
 
