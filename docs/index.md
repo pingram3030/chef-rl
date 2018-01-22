@@ -2,7 +2,8 @@
 
 These are some simple recipes and techniques to get you cooking.
 
-* [Bases](bases/)
+* [Sauces](sauces/)
 * [Savoury](savoury/)
 * [Sweet](sweet/)
+* [Tips](tips/)
 

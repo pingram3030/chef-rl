@@ -49,5 +49,6 @@ other way around and never along the edge..
 to keep sharp and will hold its edge longer too!
 
 * Give your blade a lick of a steel at least every second time you use it for
-cutting lots of things.
+cutting lots of things and reduce the number of times you have to spend time
+grinding the blade back to sharp.
 

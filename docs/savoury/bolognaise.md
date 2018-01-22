@@ -8,17 +8,17 @@ it ceases to be a proper bolognaise..
 ## Ingredients
 
 * 1 Bottle of red, preferably Shiraz/Syrah, Cabernet's can be too fuity/plummy.
-* 2kg Tomatoes, blanched , peeled and diced.
+* 2kg Tomatoes, [blanched](../tips/blanching) , peeled and [diced](../tips/cutting).
 * 500g Beef mince
 * 500g Pork mince
-* 500g Lamb mince (optional)
+* 500g Lamb mince (optional, but all other ingredients must be increased by 50%)
 * 250g Mushrooms, sliced (either white or brown)
 * 2 Onions, diced
 * 3 Cloves garlic, crushed
-* 1 Tablespoon plain flower
+* 1 Heaped tablespoon plain flower
 * 2 Tablespoons olive oil
 * 1 Teaspoon pepper
-* 2 Taspoons basil
+* 2 Teaspoons basil
 * 1 Teaspoon oregano
 * 1 Teaspoon salt
 * A healthy pinch of sugar
@@ -48,7 +48,8 @@ frequently until the meat has turned from red/pink.
 of the wine can be used for what ever purpose you see fit from here on out.
 
 1. Bring to the boil then return it to a rolling simmer until nearly all of the
-left over water has evapourated; this can take a couple of hours.
+left over water has evapourated; this can take a couple of hours. Be sure to
+periodically stir to stop the mixture at the base of the pot from burning.
 
 ## Notes
 

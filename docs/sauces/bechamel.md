@@ -8,8 +8,8 @@
 
 ## Method
 
-1. In a small, heavy saucepan, melt 2 tablespoons of butter over the lowest
-heat possible.
+1. In a small, heavy based saucepan, melt 2 tablespoons of butter over the
+lowest heat possible.
 
 1. Blend the flour into the melted butter; you're looking for the mixture to
 be so thick that as the butter begins to boil there's enough flour to make it

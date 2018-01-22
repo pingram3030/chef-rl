@@ -12,7 +12,7 @@
 
 ## Method
 
-1. Melt butter and add all non chicken ingredients
+1. Melt butter and add all non-chicken ingredients.
 1. Place chicken pieces in the baking dish and baste with the good stuff.
 1. Cook in a hot oven (240-250) for 10-15 minutes and re-baste - Temp varies
 depending on oven and time varies depending on thickness of chicken.
