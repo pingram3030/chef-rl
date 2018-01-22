@@ -66,7 +66,7 @@ the sauce *slopping* against the sides and splashing.
 * The tomatoes add quite a lot of water to the sauce, so leave uncovered for
 the water to evapourate; stir every 15ish minutes. Every time you go back to
 the sauce, take note of how much fluid rests on top of the sauce mass. Turn the
-heat off once there is only a small amount of fuid left; leave to cool. 
+heat off once there is only a small amount of fuid left; leave to cool.
 
 * By now several hours have passed and the smell of onion and garlic should be
 ubiquitous throughout your house; if this is the case, you have succeeded. The

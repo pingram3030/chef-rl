@@ -7,7 +7,7 @@ cutting surface there is a reduced risk of doing yourself a mischief.
 
 * If slicing carrots, cut the big end first. As you cut down the carrot it
 will be easier to end on the smallest part than trying to cut a balancing
-coin. 
+coin.
 
 * Use a wooden chopping block. Wood has anti-bacterial properties and is
 better for a sharp blade to bed in to.
@@ -26,7 +26,7 @@ other way around and never along the edge..
     * Should be kept keen with a [knife steel](https://en.wikipedia.org/wiki/Honing_steel).
     Any form of grinding leaves the cutting edge serrated which is more
     dangerous to use. The steel will knock off the rough edges and leave the
-    cutting edge smooth and much sharper. 
+    cutting edge smooth and much sharper.
 
     * Causes less damage if you cut yourself; meaning tearing of your flesh
     versus slicing it. This means that scarring is reduced and the chance

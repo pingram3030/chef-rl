@@ -1,0 +1,9 @@
+---
+os: linux
+dist: trusty
+sudo: false
+language: ruby
+rvm:
+  - 2.4
+script:
+  - mdl -s mdl.rb docs

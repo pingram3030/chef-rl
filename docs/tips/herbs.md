@@ -7,4 +7,4 @@
 * Once you've made your meal if you're trying to figure out which spices are
 too strong or too weak, sniff each source herb individually while some of the
 food is in your mouth; it will help you train your nose.
- 
+
