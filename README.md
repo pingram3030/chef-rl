@@ -7,3 +7,4 @@ developing your cooking skills.
 
 Cook well. Eat well.
 
+Licence: CC-BY-SA 4.0
