@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+#
+# Use pandoc to convert a markdown file to a manual page.
+#
+
+[[ ${DEBUG-} ]] && set -x
+
+[[ $# -lt 1 ]] \
+    && echo "Usage: $(basename $0) MD_FILE" >&2 \
+    && exit 0 \
+    || FILE=$1
+
+pandoc -s -f markdown -t man ${FILE} | man -l -
+
