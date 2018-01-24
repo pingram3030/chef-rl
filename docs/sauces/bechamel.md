@@ -1,4 +1,4 @@
-# Roux (White Sauce)
+# Bechamel (White Sauce)
 
 ## Ingredients
 
