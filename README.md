@@ -8,3 +8,11 @@ developing your cooking skills.
 Cook well. Eat well.
 
 Licence: CC-BY-SA 4.0
+
+## Basic Usage
+
+```
+dnf install python3-pip
+pip install mkdocs
+mkdocs serve
+```
