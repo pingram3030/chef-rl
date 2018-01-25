@@ -1,3 +1,4 @@
 site_name: Chef-RL
 #theme: readthedocs
 use_directory_urls: true
+copyright: 'Copyright &copy; 2017 - 2018 Phil Ingram'
